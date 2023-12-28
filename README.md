@@ -20,7 +20,7 @@ Paw Love serves as an interactive platform for pet owners seeking professional c
 
 For an immersive preview of Paw Love, please view the demo video linked below. This video provides an overview of the website's features and its responsive interface.
 
-<p>https://github.com/Accusamus2065/Paw-Love/assets/110690068/38fa39ce-a91b-4516-a0c2-92f37d73cb1d</p>
+<p>https://github.com/Accusamus2065/Paw-Love/assets/110690068/41cdf691-0e21-4296-a63c-30ba484de001</p>
 
 ### Feedback
 
